@@ -33,7 +33,6 @@
 
 ## 📫 Conecta conmigo  
 - ✉️ [Email](mailto:deybitsds1@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com) *(puedes poner tu link si tienes)*  
 - 💻 [GitHub](https://github.com/deybitsds)  
 
 ---
